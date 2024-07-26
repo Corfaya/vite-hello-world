@@ -4,11 +4,10 @@ export default {
 }
 </script>
 <template>
-    <img src="../assets/procione.jpg" alt="image">
+    <img src="../assets/rac.webp" alt="image">
 </template>
 <style>
     img {
-        width: 400px;
-        margin: 20px auto;
+        width: 1200px;
     }
 </style>
